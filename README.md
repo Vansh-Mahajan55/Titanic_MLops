@@ -16,7 +16,6 @@ titanic-mlops/
 ├── src/
 │   └── train.py
 ├── models/
-├── .gitignore
 └── requirements.txt
 ```
 
