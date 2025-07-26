@@ -9,14 +9,14 @@ This means that the model will iteratively get retrained to account for new data
 ### 🧱 Folder Structure
 Create a clean Project Folder
 `
-titanic-mlops/
-├── data/
-│   └── train.csv
-├── src/
-│   └── train.py
-├── models/
-├── .gitignore
-└── requirements.txt
+titanic-mlops/  
+├── data/  
+│   └── train.csv  
+├── src/  
+│   └── train.py  
+├── models/  
+├── .gitignore  
+└── requirements.txt  
 `
 
 ## About Me:
