@@ -8,16 +8,16 @@ This means that the model will iteratively get retrained to account for new data
 ### ✅ Step 1: Setting up the Environment 
 ### 🧱 Folder Structure
 Create a clean Project Folder
-`
-titanic-mlops/  
-├── data/  
-│   └── train.csv  
-├── src/  
-│   └── train.py  
-├── models/  
-├── .gitignore  
-└── requirements.txt  
-`
+```
+titanic-mlops/
+├── data/
+│   └── train.csv
+├── src/
+│   └── train.py
+├── models/
+├── .gitignore
+└── requirements.txt
+```
 
 ## About Me:
 Hi I'm Vansh Mahajan, An aspiring Data Scientist. You can connect with me on my Socials below:
